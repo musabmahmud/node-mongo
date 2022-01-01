@@ -1,0 +1,21 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "i'm started learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/musabmahmud/node-mongo.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Musab Mahmud",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
